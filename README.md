@@ -1,6 +1,5 @@
-[index.html](https://github.com/user-attachments/files/25083137/index.html.md)
-#   
-<!DOCTYPE html>  
+[index.md](https://github.com/user-attachments/files/25083137/index.html.md)
+#    
 <html lang="en">  
 <head>  
 <meta charset="UTF-8">  
