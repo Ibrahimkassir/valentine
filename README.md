@@ -125,7 +125,7 @@
 <div class="card" id="result">  
   <h1>💥💖 IT’S OFFICIAL 💖💥</h1>  
   <p>You are my Valentine now.</p>  
-  <img src="valentine.jpg">  
+  <img src="valentine.JPG">  
 </div>  
   
 <script>  
