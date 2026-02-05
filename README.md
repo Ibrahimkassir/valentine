@@ -121,8 +121,8 @@
   
 <div class="card" id="result">  
   <h1>💥💖It's Official You Are Mine Sexy Girl💖💥</h1>  
-  <p>🤭I LOVE YOU MY VALENTINE🤭
-     I am so glad you said YES</p>  
+  <p>🤭I LOVE YOU MY VALENTINE🤭      
+         I am so glad you said YES</p>  
   <img src="valentine.JPG">  
 </div>  
   
