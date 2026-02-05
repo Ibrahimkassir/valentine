@@ -1,6 +1,5 @@
 [index.md](https://github.com/user-attachments/files/25083856/index.md)
-#   
-<!DOCTYPE html>  
+#
 <html lang="en">  
 <head>  
 <meta charset="UTF-8">  
