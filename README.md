@@ -1,5 +1,3 @@
-[index.html](https://github.com/user-attachments/files/25083977/index.html)
-#   
 <!DOCTYPE html>  
 <html lang="en">  
 <head>  
@@ -115,7 +113,7 @@
 </audio>  
   
 <div class="card" id="card">  
-  <h1>Will you be my Valentine? 💖</h1>  
+  <h1>Will you make me the luckiest person on Valentine? 💖</h1>  
   <div class="buttons">  
     <button id="yesBtn">YES 💘</button>  
     <button id="noBtn">no 😐</button>  
@@ -123,8 +121,8 @@
 </div>  
   
 <div class="card" id="result">  
-  <h1>💥💖 IT’S OFFICIAL 💖💥</h1>  
-  <p>🤭YOU ARE ALWAYS MINE🤭.</p>  
+  <h1>💥💖I AM SO ADDICTED TO YOU💖💥</h1>  
+  <p>🤭YOU ARE ALWAYS MINE🤭</p>  
   <img src="valentine.JPG">  
 </div>  
   
