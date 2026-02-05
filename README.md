@@ -112,7 +112,7 @@
 </audio>  
   
 <div class="card" id="card">  
-  <h1>Will you make me the luckiest person on Valentine? 💖</h1>  
+  <h1>Will you make me the luckiest person on Valentine Fatouma? 💖</h1>  
   <div class="buttons">  
     <button id="yesBtn">YES ❤️🥰😍</button>  
     <button id="noBtn">no 🫣</button>  
@@ -120,7 +120,7 @@
 </div>  
   
 <div class="card" id="result">  
-  <h1>💥💖It's Official You Are Mine Sexy💖💥</h1>  
+  <h1>💥💖It's Official You Are Mine Sexy Girl💖💥</h1>  
   <p>🤭I LOVE YOU MY VALENTINE🤭</p>  
   <img src="valentine.JPG">  
 </div>  
